@@ -4,4 +4,4 @@ Taskbuddy is a web application developed to help users to track their everyday t
 
 Developed by: Aviwe Mbolekwa
 
-# live demo: https://taskbud.netlify.app/taskbuddy/
+# live website: https://taskbud.netlify.app/taskbuddy/
